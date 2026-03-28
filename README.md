@@ -15,4 +15,5 @@ Currently testing the Bluetooth connection to the laptop after having tested the
 
 ### Sources used so far:
 - https://protosupplies.com/wp-content/uploads/2018/07/Funduino-Joystick-Shield-Connections.jpg
+![joystick pinouts](https://github.com/user-attachments/assets/10e666ee-1c35-4489-9766-88ca8c823efa)
 - https://www.youtube.com/watch?v=CD8VJl27n94
